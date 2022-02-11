@@ -1,5 +1,5 @@
 def start():
-    print("Hello Python World~")
+    print("Hello C World~")
     print("You are first here")
     print("Let's practice some exercises")
 
@@ -13,8 +13,9 @@ def add():
     return sum
 
 
+print("System Initiating")
 start()
 sum = add()
 print("덧셈 결과 : %d" % d)
+print("더하기 날로 먹냐??")
 print("End of File")
-
